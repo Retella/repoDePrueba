@@ -1,1 +1,6 @@
-{}
+merge_queue:
+  mode: isolated
+merge_protections:
+  - name: reglillaPaProvar
+    if: []
+    success_conditions: []
